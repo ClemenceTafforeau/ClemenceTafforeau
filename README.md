@@ -15,9 +15,8 @@
 My name is Clémence, Clem for short. I'm a web designer although I aspire to add "front-end development" to my skillset.
 
 - 🇫🇷 I live in Tours, France
-- 🖌️ I started my web design course a year ago (my final exam is coming soon... Fingers crossed!)
+- 💻 I'm a web designer currently undertaking a web development apprenticeship
 - 👩‍⚕️ Before that, I used to be a medical secretary (totally unrelated, right?)
-- 💻 I want to start a dev course in September, ideally centered on JavaScript
 
 ---
 
