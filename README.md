@@ -1,5 +1,4 @@
 <div id="header" align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRrMnY1Zm0ydGszZDdra3VnZzRrbXhpOHQzOThqM3R6MHR3aDdsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4a5b4AH9TG7zEgsEEe/giphy.webp"></div>
-<p align="center">This is the kind of team I'd love to be a part of... Maybe it will be yours ? 🤔</p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/cl%C3%A9mence-tafforeau/">
@@ -12,7 +11,7 @@
 <h1 align="center">Hi and welcome to my README 👋</h1>
 
 ### :woman_technologist: About me :
-My name is Clémence, Clem for short. I'm a web designer although I aspire to add "front-end development" to my skillset.
+My name is Clémence, Clem for short. I'm a web designer although I aspire to add "development" to my skillset.
 
 - 🇫🇷 I live in Tours, France
 - 💻 I'm a web designer currently undertaking a web development apprenticeship
