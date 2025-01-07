@@ -41,5 +41,5 @@
 
 ## :telescope: Currently working on
 Aside from my apprenticeship, I take on freelance webdesign jobs. I also work on the following side projects in my spare time:
-- A dungeon crawler browser game, inspired by Dungeons & Dragons and Greek mythology
+- A dungeon crawler browser game, inspired by Dungeons & Dragons and Greek mythology (<a href="https://clemencetafforeau.github.io/kubeia-preview/" target="_blank">preview</a>)
 - My personal portfolio
